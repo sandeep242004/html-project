@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>etp</title>
+    </head>
+    <h1>User Registration</h1>
+    <p>
+            Please complete the following form to register with our site.
+    </p>
+    <form action="#">
+        <pre><label><strong>User Name:</strong></label>                       <input type="text" name="text"></pre>
+        <pre><label><strong>Password:</strong></label>                        <input type="password" name="password"></pre>
+       
+    </form>
+    <pre>Gender:                         <input type="radio" name="gender">Male
+                                <input type="radio" name="gender">Female</pre>
+    <div>
+        How did you hear about us?
+    </div>
+                                  <select >
+                                    
+                                    <optgroup label  = "Choose">
+                                        <option value="content ">select content</option>
+                                        <option value="content "> </option>
+                                        <option value="content"></option>
+                                        <option value="content"></option>
+                                        <optgroup>
+                                     </select><br>
+                                     <br>
+<pre><div>Please select this box if you wish<br>to be added to our mailing lnk<br>We will not pass on your details to any other third party       <input type="checkbox"></div>
+
+                                                           <input type="submit" value="Register now"></pre>
+        
+
+
+   
+</html>
+
+
+
+
